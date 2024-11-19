@@ -1,0 +1,11 @@
+Name 1= Samosa
+Price = 30
+Desc = A samosa or singara is a fried or baked pastry with a savory filling, including ingredients such as spiced potatoes, onions, and peas.
+
+Name 2 = Idli Sambar
+Price = 50
+Desc =  Idli Sambar is a South Indian breakfast meal where soft fluffy steamed cakes known as idli are served with sambar, a vegetable lentil stew.
+
+Name 3 = Kachori
+Price = 40
+Desc= It is a sweet dish dipped in sugar syrup. In Gujarat, it is usually a round ball made of flour and dough filled with a stuffing of yellow moong dal, black pepper, red chili powder, and ginger paste. In Delhi it is often served as chaat.

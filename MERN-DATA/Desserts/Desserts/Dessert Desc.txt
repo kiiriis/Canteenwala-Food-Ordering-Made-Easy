@@ -1,0 +1,11 @@
+Name 1 =  Malai Kulfi
+Price = 20
+Desc= This malai kulfi is like happiness condensed in a matki. To make it extra special, top it off with dry fruits and make sure it is absolutely chilled before serving. So creamy, so simple - it hits all the right notes.
+
+ Name 2 = Pistachio Phirni
+Price = 50
+Desc = Flavoured with elaichi and pista, take phirni to a whole new level with this exquisite recipe. Serve chilled in mitti ke kasore for a festive occasion and bask in the glory. This phirni is made of sugar and love.
+
+Name 3=Fudgy Chewy Brownies
+Price = 70
+Desc = A balanced diet is a brownie in each hand - don't you agree? Decadently rich, fudgy and chewy - bake a batch and be your family's hero. These brownies are pure chocolate overload, perfect to bake on a lazy afternoon.

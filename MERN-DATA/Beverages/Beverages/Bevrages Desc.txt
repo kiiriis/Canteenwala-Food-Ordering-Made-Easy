@@ -1,0 +1,12 @@
+Avocado and Mix Nuts Thandai
+Price = 50
+Desc= Thandai is an ancient Indian recipe, made with a nutritious blend of various nuts, seeds, and spices, mixed in milk.
+
+Chai
+Price=20
+Desc= Chai is steeped in a rich history. The name “chai” is actually the Hindi word for “tea”, which was derived from “cha”, the Chinese word for “tea”. In this case, the Hindi term chai means a mix of spices steeped into a tea-like beverage.
+
+Chaas
+Price = 20
+Desc = The classic Chaas (Chaach/Mattha) also known as the Indian version of buttermilk is a refreshingly cooling summer drink made with creamy yogurt and seasonings. Here you’ll find step-by-step instructions with photos for making two chaas recipes – Masala Chaas and Pudina Chaas. Called by various names across the country this spiced Indian buttermilk drink features lots of bold, delicious spices.
+

@@ -1,0 +1,12 @@
+Name 1 = Chhole Bhature
+Price = 80
+Desc= It is a combination of chana masala (spicy white chickpeas) and bhatura/puri, a deep-fried bread made from maida. Although it is known as a typical Punjabi dish, It is originally a culinary dish of Delhi and Uttar Pardesh.
+
+Name 2= Dosa
+Price = 100
+Desc = Dosas (Sada Dosa, Masala Dosa etc etc. ) are a typical part of Southern Indian or South Indian Cuisine, but the dish is now popular all over the Indian subcontinent.
+
+NAme 3 = Biryani
+Price=120
+Desc=  biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combination.
+
